@@ -1,0 +1,10 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color:white;
+    position: static;
+    display: block;
+    margin: 0px;
+}
